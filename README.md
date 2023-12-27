@@ -1,2 +1,3 @@
-# Business-Analytics
-Assignment and project files from university's Business Analytics module
+# Predictive Analysis
+
+Assignments and project files for Predictive Analysis with Python
